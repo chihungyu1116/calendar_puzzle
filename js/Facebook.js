@@ -91,7 +91,7 @@ var facebook = (function(){
 
 
             // For testing
-            layOutDay(Config.events);
+            // layOutDay(Config.events);
         }
     };
     return {
