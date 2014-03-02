@@ -1,7 +1,7 @@
-facebook_calendar_puzzle
+Calendar_puzzle
 ========================
 
-Facebook Calendar Puzzle
+Calendar Puzzle
 
 
 Included below are the details for the challenge, along with one attachment.  Please complete and send back at your earliest convenience, noting the length of time it took to complete.  Note that on average, it takes 8 -10 hrs to successfully complete this puzzle, so please do not rush to turn this in.  Your solution will be run through a suite of test cases and evaluated on correctness, elegance, and readability.  You can start and stop the puzzle at anytime.  There is not an official time limit for turning in the puzzle since we realize and respect the fact that engineers are currently working and have busy lives.  But we hope to receive the puzzle back within 7-14 days if possible.  If you need more time, just let me know.  Please put a lot into it and test your work and show us your best work. Please do not post your solution in a public accessible location on the internet.
